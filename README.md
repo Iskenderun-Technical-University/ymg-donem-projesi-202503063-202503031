@@ -3,6 +3,6 @@
 ##  Projenin Amaçı
 Satıcının sisteme yüklediği araba lastiklerini satmayı amaclayan web sitedir.
 Alıcı  istediği ürünü aratarak ya da ürünler bölümünden  bulduğu ürünü sepete ekliyebilir.
-sepet kısmınnda  gerekli işlmleri yaparak  alışverişi tamamlar.
+Sepet kısmınnda  gerekli işlmleri yaparak  alışverişi tamamlar.
 
 ![uml](https://user-images.githubusercontent.com/123008456/235130618-763dec69-8584-4cb5-a14b-2d7e497471cd.png)
